@@ -29,17 +29,17 @@ Activity: the Name of the Activity performed by the subject when measurements we
 
 There are the variables used in the script:
 
-#Features
-  This considers all features of the subject, like acceleration, body mass, energy, etc.
-#Activities
-  This considers all activities performed by the subject: walking, climbing, sitting, standing, etc.
-#x_test
-  Test subject in X axis
-#y_test
-  Test subject in Y axis
-#subject_train
-  Test subject for training 
-#x_train
-  Training subject x axis
-#y_train
-  Training subject y axis
+Features:
+This considers all features of the subject, like acceleration, body mass, energy, etc.
+Activities:
+This considers all activities performed by the subject: walking, climbing, sitting, standing, etc.
+x_test:
+Test subject in X axis
+y_test:
+Test subject in Y axis
+subject_train:
+Test subject for training 
+x_train:
+Training subject x axis
+y_train:
+Training subject y axis
